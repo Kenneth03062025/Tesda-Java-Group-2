@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="mysql-connector-java-5.1.23-bin">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_291/bin" />
+      <root url="jar://$PROJECT_DIR$/../../postgresql-42.7.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <NATIVE>
+      <root url="file://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_291/bin" />
+    </NATIVE>
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../../../../../Program Files/Java/jdk1.8.0_291/bin" recursive="false" />
+  </library>
+</component>
